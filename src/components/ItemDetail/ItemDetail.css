@@ -1,0 +1,45 @@
+.CardItem {
+    display: flex;
+    background-color: black;
+}
+
+.Header {
+    display: flex;
+    align-items: flex-start;
+    font-size: 40px;
+    color: white;
+}
+
+.ItemHeader {
+    font-size: 30px;
+    color: white;
+}
+
+.ItemImg {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 150px;
+}
+
+.Info {
+    font-size: 20px;
+    color: white;
+}
+
+.ItemFooter {
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    color: white;
+}
+
+.Option {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    color: black;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+}
